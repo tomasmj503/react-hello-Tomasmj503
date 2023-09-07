@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter {
+    background-color: blue;
+    color:white;
+    margin : 20px;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.box{
+    background-color: black;
+    text-align: center;
+    
+}
