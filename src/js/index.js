@@ -11,7 +11,7 @@ import Home from "./component/home.jsx";
 //render your react application
 let seg = 0
 setInterval(() => {
-    let one = Math.floor((seg/1) % );
+    let one = Math.floor((seg/1) % 10);
     let two = Math.floor((seg/10) % 10);
     let three = Math.floor((seg/100) % 10);
     let four = Math.floor((seg/1000) % 10);
